@@ -17,8 +17,8 @@ This is a solution to the [four card feature section challenge on Frontend Mento
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/3-column-preview-card-component-XxyviDk9iy)
--  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-3Column-Card-Component/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-Nj5hOE_oL7)
+-  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Four-Card-Feature/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
